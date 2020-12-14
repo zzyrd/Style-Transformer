@@ -36,12 +36,15 @@ contains a full project report, discussing all the technical details and comment
 
 Content Images:
 
-<img src="results/content.png" alt="text" width="238"/>
-<img src="results/dancing.png" alt="text" width="238"/>
-<img src="results/horse.png" alt="text" width="238"/>
+
+<div>
+<img  src="results/content.png" alt="text" width="238"/>
+<img  src="results/dancing.png" alt="text" width="238"/>
+<img  src="results/horse.png" alt="text" width="238"/>
+</div>
 
 
-Style Images:
+<!-- Style Images:
 
 <img src="results/picasso_style.png" alt="text" width="238"/>
 <img src="results/scream_style.png" alt="text" width="238"/>
@@ -70,7 +73,7 @@ V2 results:
 <img src="results/v_2_starry_night_out.png" alt="text" width="238"/>
 <img src="results/v_3_picasso_out.png" alt="text" width="238"/>
 <img src="results/v_3_scream_out.png" alt="text" width="238"/>
-<img src="results/v_3_starry_night_out.png" alt="text" width="238"/>
+<img src="results/v_3_starry_night_out.png" alt="text" width="238"/> -->
 
 
 
