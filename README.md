@@ -36,9 +36,42 @@ contains a full project report, discussing all the technical details and comment
 
 Content Images:
 
-![Alt text =100x100](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
-![Alt text =100x100](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
-![Alt text =100x100](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
+<img src="results/content.png" alt="text" width="238"/>
+<img src="results/dancing.png" alt="text" width="238"/>
+<img src="results/horse.png" alt="text" width="238"/>
+
+
+Style Images:
+
+<img src="results/picasso_style.png" alt="text" width="238"/>
+<img src="results/scream_style.png" alt="text" width="238"/>
+<img src="results/starry_night.png" alt="text" width="238"/>
+
+V1 results:
+
+<img src="results/1_picasso_out.png" alt="text" width="238"/>
+<img src="results/1_scream_out.png" alt="text" width="238"/>
+<img src="results/1_starry_night_out.png" alt="text" width="238"/>
+<img src="results/2_picasso_out.png" alt="text" width="238"/>
+<img src="results/2_scream_out.png" alt="text" width="238"/>
+<img src="results/2_starry_night_out.png" alt="text" width="238"/>
+<img src="results/3_picasso_out.png" alt="text" width="238"/>
+<img src="results/3_scream_out.png" alt="text" width="238"/>
+<img src="results/3_starry_night_out.png" alt="text" width="238"/>
+
+
+V2 results:
+
+<img src="results/v_1_picasso_out.png" alt="text" width="238"/>
+<img src="results/v_1_scream_out.png" alt="text" width="238"/>
+<img src="results/v_1_starry_night_out.png" alt="text" width="238"/>
+<img src="results/v_2_picasso_out.png" alt="text" width="238"/>
+<img src="results/v_2_scream_out.png" alt="text" width="238"/>
+<img src="results/v_2_starry_night_out.png" alt="text" width="238"/>
+<img src="results/v_3_picasso_out.png" alt="text" width="238"/>
+<img src="results/v_3_scream_out.png" alt="text" width="238"/>
+<img src="results/v_3_starry_night_out.png" alt="text" width="238"/>
+
 
 
 
