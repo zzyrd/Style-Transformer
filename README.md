@@ -29,8 +29,13 @@ contains all the implementation details of hooking method that was used for extr
 contains all the implementation details of self-defined model that computes loss within 
 the neural net model.
 
-[Report](http://github.com) contains a full project report, discussing all the technical details and comments on different results.
+[Report](https://github.com/zzyrd/Style-Transformer/blob/main/report.pdf) 
+contains a full project report, discussing all the technical details and comments on different results.
 
 ## Results
+
+Content Images:
+
+![Alt text](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
 
 
