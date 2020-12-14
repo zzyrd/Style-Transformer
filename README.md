@@ -44,14 +44,17 @@ Content Images:
 </div>
 
 
-<!-- Style Images:
+Style Images:
 
+<div>
 <img src="results/picasso_style.png" alt="text" width="238"/>
 <img src="results/scream_style.png" alt="text" width="238"/>
 <img src="results/starry_night.png" alt="text" width="238"/>
+</div>
 
 V1 results:
 
+<div>
 <img src="results/1_picasso_out.png" alt="text" width="238"/>
 <img src="results/1_scream_out.png" alt="text" width="238"/>
 <img src="results/1_starry_night_out.png" alt="text" width="238"/>
@@ -61,10 +64,11 @@ V1 results:
 <img src="results/3_picasso_out.png" alt="text" width="238"/>
 <img src="results/3_scream_out.png" alt="text" width="238"/>
 <img src="results/3_starry_night_out.png" alt="text" width="238"/>
-
+</div>
 
 V2 results:
 
+<div>
 <img src="results/v_1_picasso_out.png" alt="text" width="238"/>
 <img src="results/v_1_scream_out.png" alt="text" width="238"/>
 <img src="results/v_1_starry_night_out.png" alt="text" width="238"/>
@@ -73,8 +77,8 @@ V2 results:
 <img src="results/v_2_starry_night_out.png" alt="text" width="238"/>
 <img src="results/v_3_picasso_out.png" alt="text" width="238"/>
 <img src="results/v_3_scream_out.png" alt="text" width="238"/>
-<img src="results/v_3_starry_night_out.png" alt="text" width="238"/> -->
-
+<img src="results/v_3_starry_night_out.png" alt="text" width="238"/>
+</div>
 
 
 
