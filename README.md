@@ -36,9 +36,9 @@ contains a full project report, discussing all the technical details and comment
 
 Content Images:
 
-![Alt text =300x300](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
-![Alt text =300x300](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
-![Alt text =300x300](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
+![Alt text =100x100](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
+![Alt text =100x100](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
+![Alt text =100x100](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
 
 
 
