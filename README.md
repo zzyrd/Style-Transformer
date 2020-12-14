@@ -37,5 +37,9 @@ contains a full project report, discussing all the technical details and comment
 Content Images:
 
 ![Alt text](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
+![Alt text](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
+![Alt text](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
+![Alt text](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
+![Alt text](https://github.com/zzyrd/Style-Transformer/blob/main/results/content.png)
 
 
