@@ -2,13 +2,12 @@
 
 
 For this project, I will explore one of the deep learning applications in the area of
-Computer Vision, specically Image Style Transfer, which transfers the style (mostly art
+Computer Vision, specifically Image Style Transfer, which transfers the style (mostly art
 painting) from one image into the target image (mostly landscape photo). The synthesized
 image contains both the object structure in the target image and the style in the art image.
-Before deep learning became popular, processing such tasks was difficult due to the lack of
-image representations that explicitly represent the semantic information. By using
+Before deep learning became popular, processing such tasks was difficult due to the lack of image representations that explicitly represent the semantic information. By using
 Convolutional neural networks, we can derive such feature representations and then
-synthesizes both the structure and style together. And it generalizes very well to handle
+synthesize both the structure and style together. And it generalizes very well to handle
 different scene images and art style images
 
 ### Notice
