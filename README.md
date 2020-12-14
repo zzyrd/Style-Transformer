@@ -43,7 +43,6 @@ Content Images:
 <img  src="results/horse.png" alt="text" width="238"/>
 </div>
 
-
 Style Images:
 
 <div>
@@ -52,6 +51,7 @@ Style Images:
 <img src="results/starry_night.png" alt="text" width="238"/>
 </div>
 
+---
 V1 results:
 
 <div>
@@ -66,6 +66,7 @@ V1 results:
 <img src="results/3_starry_night_out.png" alt="text" width="238"/>
 </div>
 
+---
 V2 results:
 
 <div>
